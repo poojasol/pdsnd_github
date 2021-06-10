@@ -1,5 +1,6 @@
 import time
 import pandas as pd
+# By importing package you can access their functions
 import numpy as np
 
 CITY_DATA = { 'chicago': 'chicago.csv',
